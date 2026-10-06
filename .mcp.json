@@ -7,6 +7,7 @@
     "reference-langchain": {
       "type": "http",
       "url": "https://reference.langchain.com/mcp"
+      "uri":"https://reference.langchain.com/abokhaled"
     }
   }
 }
